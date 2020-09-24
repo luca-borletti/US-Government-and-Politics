@@ -1,5 +1,5 @@
-# The Three Branches of Government:
-### (established by the U.S. Constitution)
+<h1>The Three Branches of Government
+(established by the U.S. Constitution):</h1>
 <br/>
 <br/>
 <br/>
@@ -81,3 +81,4 @@
   </tr>
 </table>
 
+*Images taken from History.com article (by editors) [Link](https://www.history.com/topics/us-government/three-branches-of-government)*
