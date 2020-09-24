@@ -1,12 +1,7 @@
-## Welcome to GitHub Pages
+![United States Capitol](https://cropper.watch.aetnd.com/public-content-aetn.video.aetnd.com/video-thumbnails/AETN-History_VMS/385/159/BRANDHD2398_THC_HOSF_211105_SFM_000_2398_15_20171214_00_HD.jpg?w=1440)
+![White House](https://cropper.watch.aetnd.com/public-content-aetn.video.aetnd.com/video-thumbnails/AETN-History_VMS/388/587/BRANDHD2398_THC_HOSF_211104_SFM_000_2398_15_20171214_00_HD.jpg?w=1440)
+![Supreme Court Building](supreme_court.png)
 
-You can use the [editor on GitHub](https://github.com/luca-borletti/US-Government-and-Politics/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -26,12 +21,3 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/luca-borletti/US-Government-and-Politics/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
