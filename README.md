@@ -1,5 +1,7 @@
 <h1>The <i>"Trias Politica"</i>:</h1>
 
+**By Luca Borletti**
+
 > According to the doctrine of separation of powers, 
 > the U.S. Constitution distributed the power of the 
 > federal government among the branches—legislative, 
