@@ -6,27 +6,6 @@ My GitHub Pages repository for my US Gov't &amp; Politics Website.
 ## Legislative Branch
 ![United States Capitol](https://cropper.watch.aetnd.com/public-content-aetn.video.aetnd.com/video-thumbnails/AETN-History_VMS/385/159/BRANDHD2398_THC_HOSF_211105_SFM_000_2398_15_20171214_00_HD.jpg?w=1440)
 
-<style>
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
-
-td, th {
-  border: 1px solid #dddddd;
-  padding: 8px;
-}
-
-tr:nth-child(even) {
-  background-color: #dddddd;
-}
-</style>
-
-
-
-<h2>HTML Table</h2>
-
 <table>
   <tr>
     <th>Company</th>
