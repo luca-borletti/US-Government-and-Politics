@@ -1,10 +1,42 @@
-<h1>The Three Branches of Government
-(established by the U.S. Constitution):</h1>
+<h2>The Three Branches of Government
+(established by the U.S. Constitution):</h2>
+*use dropdown menus*
 <br/>
 <br/>
 <br/>
 
-## Legislative Branch
+
+
+<details open>
+<summary><h3>Legislative Branch</h3></summary>
+<br>
+<img src="https://cropper.watch.aetnd.com/public-content-aetn.video.aetnd.com/video-thumbnails/AETN-History_VMS/385/159/BRANDHD2398_THC_HOSF_211105_SFM_000_2398_15_20171214_00_HD.jpg?w=1440" alt="United States Capitol">
+<table>
+  <tr>
+    <th>Powers</th>
+    <th>Checks</th>
+  </tr>
+  <tr>
+    <td>Create laws</td>
+    <td>Judicial branch can declare those laws unconstitutional</td>
+  </tr>
+  <tr>
+    <td>Control the budget</td>
+    <td>Executive branch can veto those laws</td>
+  </tr>
+  <tr>
+    <td><pre>…
+    </pre></td>
+    <td><pre>…
+    </pre></td>
+  </tr>
+</table>
+</details>
+
+
+
+
+### Legislative Branch
 ![United States Capitol](https://cropper.watch.aetnd.com/public-content-aetn.video.aetnd.com/video-thumbnails/AETN-History_VMS/385/159/BRANDHD2398_THC_HOSF_211105_SFM_000_2398_15_20171214_00_HD.jpg?w=1440)
 
 
@@ -32,7 +64,7 @@
 
 
 
-## Executive Branch
+### Executive Branch
 ![White House](https://cropper.watch.aetnd.com/public-content-aetn.video.aetnd.com/video-thumbnails/AETN-History_VMS/388/587/BRANDHD2398_THC_HOSF_211104_SFM_000_2398_15_20171214_00_HD.jpg?w=1440)
 
 <table>
@@ -57,7 +89,7 @@
 </table>
 
 
-## Judicial Branch
+### Judicial Branch
 ![Supreme Court Building](supreme_court.png)
 
 <table>
