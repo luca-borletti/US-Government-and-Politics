@@ -22,8 +22,10 @@ My GitHub Pages repository for my US Gov't &amp; Politics Website.
     <td>Executive branch can veto those laws</td>
   </tr>
   <tr>
-    <td>…</td>
-    <td>…</td>
+    <td><pre>…
+    </pre></td>
+    <td><pre>…
+    </pre></td>
   </tr>
 </table>
 
@@ -46,8 +48,10 @@ My GitHub Pages repository for my US Gov't &amp; Politics Website.
     <td>Judicial branch can declare those acts unconstitutional</td>
   </tr>
   <tr>
-    <td>…</td>
-    <td>…</td>
+    <td><pre>…
+    </pre></td>
+    <td><pre>…
+    </pre></td>
   </tr>
 </table>
 
@@ -69,8 +73,10 @@ My GitHub Pages repository for my US Gov't &amp; Politics Website.
     <td>Legislative branch confirms the President’s nominations for judicial positions</td>
   </tr>
   <tr>
-    <td>…</td>
-    <td>…</td>
+    <td><pre>…
+    </pre></td>
+    <td><pre>…
+    </pre></td>
   </tr>
 </table>
 
