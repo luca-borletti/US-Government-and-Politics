@@ -1,8 +1,9 @@
-# US-Government-and-Politics
-My GitHub Pages repository for my US Gov't &amp; Politics Website.
+# The Three Branches of Government:
+### (established by the U.S. Constitution)
 <br/>
 <br/>
 <br/>
+
 ## Legislative Branch
 ![United States Capitol](https://cropper.watch.aetnd.com/public-content-aetn.video.aetnd.com/video-thumbnails/AETN-History_VMS/385/159/BRANDHD2398_THC_HOSF_211105_SFM_000_2398_15_20171214_00_HD.jpg?w=1440)
 
