@@ -84,7 +84,7 @@
   </tr>
   <tr>
     <td>Interpret laws</td>
-    <td>Executive branch nominates Supreme Court justices, court of appeals judges, and district court judges</td>
+    <td>Executive branch nominates Supreme Court justices, court of appeals judges</td>
   </tr>
   <tr>
     <td>Determine the constitutionality of laws</td>
